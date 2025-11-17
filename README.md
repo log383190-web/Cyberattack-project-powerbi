@@ -44,7 +44,7 @@ DAX Measures for detection %, trends, and response time
 
 Cyberattack Analysis/
 
-─ Cyberattack_A.pbix
+─ cybersecurity_project.pbix
 
 ─ dashboard.png
 
